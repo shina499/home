@@ -1,0 +1,7 @@
+body{
+    font-family: yekanbakh;
+}
+@font-face {
+    font-family: yekanbakh;
+    src: url("/src/assets/font/fonts/YekanBakh/YekanBakh-Bold.ttf");
+}
